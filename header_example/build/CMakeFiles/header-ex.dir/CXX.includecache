@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nicdag/Desktop/projects/header-ex/head.hpp
+
+/home/nicdag/Desktop/projects/header-ex/main.cpp
+iostream
+-
+head.hpp
+/home/nicdag/Desktop/projects/header-ex/head.hpp
+

@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/nicdag/Desktop/projects/header-ex/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/header-ex.dir/main.cpp.o -c /home/nicdag/Desktop/projects/header-ex/main.cpp",
+  "file": "/home/nicdag/Desktop/projects/header-ex/main.cpp"
+},
+{
+  "directory": "/home/nicdag/Desktop/projects/header-ex/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/header-ex.dir/head.cpp.o -c /home/nicdag/Desktop/projects/header-ex/head.cpp",
+  "file": "/home/nicdag/Desktop/projects/header-ex/head.cpp"
+}
+]

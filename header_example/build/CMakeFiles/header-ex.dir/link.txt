@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -rdynamic CMakeFiles/header-ex.dir/main.cpp.o CMakeFiles/header-ex.dir/head.cpp.o -o header-ex 
