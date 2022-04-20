@@ -10,6 +10,7 @@ private:
     string password;
 
 public:
+    User(string name,string surname,string username,string password):name(name),surname(surname),username(username),password(password) {}
     void setName(string name) { this->name = name; }
     string getName() { return name; }
     void setSurname(string surname) { this->surname = surname; }
@@ -22,7 +23,7 @@ public:
 
 int main()
 {
-    User user1;
+    User user1("","","","");
     user1.setName("Niyazi");
     user1.setSurname("İçdağ");
     user1.setUsername("niyaziicdag");
